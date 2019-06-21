@@ -41,7 +41,7 @@ Reflect | 20 minutes
 
 These games are somewhat in order of difficulty, so try fixing them from top to bottom. 
 
-[Squirt The Clown](./squirt-the-clown/readme.md)
+[Squirt The Clown](./squirt-the-clown/squirt-the-readme.md)
 [Pride Ferris Wheel](./pride-ferris-wheel/readme.md)
 [Whack-A-Mole](./whack-a-mole/readme.md)
 [Dress The Clown](./dress-the-clown/readme.md)

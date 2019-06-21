@@ -5,46 +5,27 @@
 
 ### Learning Competencies
 
-- DOM Manipulation using Javascript, including:
-	- Creating, modifying and deleting different HTML tags using vanilla Javascript
-	- Working with tables, rows and cells
-	- Modification of CSS using Javascript
-- Using multiple Javascript files in a single HTML document
-- Using an external Javascript file in an HTML document
-- Working with and changing HTML images using Javascript
-- Playing sounds with Javascript
-- Handling user input with Javascript, including button presses and mouse clicks
-- Creating and manipulating Javascript Arrays
-- Creating, adding to and traversing Javascript Objects
-- Writing Javascript functions, and developing an understanding of:
-	- Arguments
-	- Return values
-	- Loops
-	- Conditionals
+- Using Javascript to work with HTML images.
+- The onClick() method.
+- Writing and firing functions in Javascript.
 
 ## Summary
 
-Welcome to the Javascript Carnival! It's a wonderful place full of exciting games and activities... 
-Just kidding! All four of our games are broken. Please help us fix the carnival using your Javascript skills. 
+These clowns love to receive water in the mouth and have their balloons inflated!
+Unfortunately for the clowns, currently they can not be squirted! 
+Use your Javascript skills to squirt the clowns. 
 
 Resources:\
-[]()\
-[]()
+[Javascript onClick() method](https://www.w3schools.com/jsref/event_onclick.asp)\
+[HTML Images](https://www.w3schools.com/html/html_images.asp)
 
-## Timebox
+## Time to Squrit The Clown!
 
-Challenge | Time|
-------------|----------|
-Squirt The Clown | 3 hours
-Pride Ferris Wheel | 3 hours
-Whack-a-Mole | 3 hours
-Dress The Clown | 4 hours
-Reflect | 20 minutes
+Let's get started.
 
-## And so it begins!
+1. In the `squirt-the-clown.html` document, find the three empty `<img>` tags and set their `src=` elements to the `empty-clown.jpg` image.
 
-Let's get started by setting up our files.
-1. Create a fork of the [minesweeper repo](https://github.com/dev-academy-foundations/minesweeper)
+
 
 2. Clone your copy of the forked repository down using `git clone https://github.com/your-name/minesweeper` (replacing your-name with your GitHub account name.)
 
