@@ -24,7 +24,7 @@ Resources:\
 
 Let's get started.
 
-1. In the `squirt-the-clown.html` document, find the three empty `<img>` tags and replace their `src=` elements to the `empty-clown.jpg` image.
+1. In the `squirt-the-clown.html` document, find the three placeholder `<img>` tags and replace their `src=` elements to the `clown-0.png` image.
 
 2. Read up on the [Javascript onClick() method](https://www.w3schools.com/jsref/event_onclick.asp).
 You will need to write a function that fires every time you click on one of the clowns.
@@ -45,3 +45,4 @@ Commit and push to GitHub.
 ## Stretch
 
 1. Once you click on a satasfied clown, instead of popping up an alert it should reset back to empty!
+2. Add a squirting sound effect that plays whenever you click on a clown!
