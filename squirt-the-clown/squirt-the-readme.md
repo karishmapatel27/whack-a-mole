@@ -1,7 +1,7 @@
 [Home](../README.md)|
 ---|
 
-# Squirt a Clown
+# Squirt The Clown
 
 ### Learning Competencies
 
