@@ -1,22 +1,22 @@
 [Home](../README.md)|
 ---|
 
-# Pride Ferris Wheel
+# Whack-a-Mole
 
 ### Learning Competencies
 
-- Using Javascript to manipulate CSS.
+- Using Javascript to work with HTML tables
 - The onClick() method.
-- Writing logic in Javascript functions.
+- Playing audio with Javascript
 
 ## Summary
 
-The Javascript Carnival is celebrating pride month! 
-Their beautiful rainbow ferris wheel should be able to rotate clockwise or counter-clocwise on demand, but it is currently motionless! Please bring it to life with Javascript.
+The Javascript Carnival has a mole problem! But it's the opposite problem to the one you're picturing; there aren't _enough_ moles. None in fact! Use your Javascript skills to write functions that randomly pop up a mole, then pop it back up somewhere else again after it has been whacked. 
 
 Resources:\
 [Javascript onClick() method](https://www.w3schools.com/jsref/event_onclick.asp)\
-[Using Javascript to manipulate CSS](https://www.w3schools.com/js/js_htmldom_css.asp)\
+[Playing audio with Javascript](https://www.developphp.com/lib/JavaScript/Audio)\
+[HTML Tables](https://www.w3schools.com/html/html_tables.asp)\
 
 ## Spin! That! Wheel!
 
