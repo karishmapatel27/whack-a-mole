@@ -44,5 +44,5 @@ Commit and push to GitHub.
 
 ## Stretch
 
-1. Once you click on a satasfied clown, instead of popping up an alert it should reset back to empty!
+1. Once you click on a satisfied clown, instead of popping up an alert it should reset back to empty!
 2. Add a squirting sound effect that plays whenever you click on a clown!
