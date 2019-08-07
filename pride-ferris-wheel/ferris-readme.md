@@ -22,7 +22,7 @@ Resources:\
 
 Let's get started.
 
-1. 
+1. Each of the ferris wheel 
 
 ## Reflection
 
