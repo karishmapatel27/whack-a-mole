@@ -1,9 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\dress-the-clown",
+    "\\dress-the-clown\\images",
     "\\pride-ferris-wheel",
-    "\\squirt-the-clown"
+    "\\squirt-the-clown",
+    "\\squirt-the-clown\\images",
+    "\\whack-a-mole"
   ],
-  "SelectedNode": "\\pride-ferris-wheel\\ferris-readme.md",
+  "SelectedNode": "\\dress-the-clown\\dress-the-readme.md",
   "PreviewInSolutionExplorer": false
 }
