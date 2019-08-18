@@ -31,7 +31,7 @@ Just kidding! All three of our games are broken. Please help us fix the carnival
 
 Challenge | Time|
 ------------|----------|
-Squirt The Clown | 3 hours
+Squirt The Clown | 2 hours
 Whack-A-Mole | 3 hours
 Dress The Clown | 4 hours
 Reflect | 20 minutes
@@ -40,9 +40,12 @@ Reflect | 20 minutes
 
 These games are somewhat in order of difficulty, so try fixing them from top to bottom. 
 
-[Squirt The Clown](./squirt-the-clown/squirt-the-readme.md)
-[Whack-A-Mole](./whack-a-mole/whack-a-readme.md)
-[Dress The Clown](./dress-the-clown/dress-the-readme.md)
+[Squirt The Clown](./squirt-the-clown/squirt-the-readme.md) \
+
+[Whack-A-Mole](./whack-a-mole/whack-a-readme.md) \
+
+[Dress The Clown](./dress-the-clown/dress-the-readme.md) \
+
 
 ## Reflection
 
