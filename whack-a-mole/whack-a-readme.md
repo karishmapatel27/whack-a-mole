@@ -16,7 +16,7 @@ The Javascript Carnival has a mole problem! But it's the opposite problem to the
 Resources:\
 [Javascript onClick() method](https://www.w3schools.com/jsref/event_onclick.asp)\
 [Playing audio with Javascript](https://www.developphp.com/lib/JavaScript/Audio)\
-[HTML Tables](https://www.w3schools.com/html/html_tables.asp)\
+[HTML Tables](https://www.w3schools.com/html/html_tables.asp)
 
 ## Whack! That! Mole!
 
@@ -24,16 +24,16 @@ Let's get started.
 
 1. The trickiest part of this whole exercise basically comes right at the beginning. You need to find a way to _store references_ to all the cells so you can put moles in them. There are multiple ways you could go about doing this; trying [reading up on how to work with HTML tables using Javascript.](https://www.w3schools.com/jsref/coll_table_cells.asp). Probably your best bet is going to involve _creating an array that has all the cells inside it._ If that is a daunting task, *ask the internet how to do it*.
 
-2. Once you have a reference to all the cells, you have to write a function that randomly selects one to put the mole in. This shouldn't be too hard if you have stored the cells in an array, because you can create an indexer using [Javascript Random](https://www.w3schools.com/js/js_random.asp) and then use it to get back a random cell from inside your array. ie, \
+2. Once you have a reference to all the cells, you have to write a function that randomly selects one to put the mole in. This shouldn't be too hard if you have stored the cells in an array, because you can create an indexer using [Javascript Random](https://www.w3schools.com/js/js_random.asp) and then use it to get back a random cell from inside your array. ie, 
 
 `var randomIndex = GetRandomIndexFunctionIWrote()`\
-`var randomCell = cells[randomIndex]`\
+`var randomCell = cells[randomIndex]`
 
 *Remember, your random indexer should only be able to go as high as the length of the array, otherwise it will try to access cells that don't exist and you will get an "indexer out of bounds" error.
 
-3. Now you need to write a function that actually _puts_ the mole into the cell. Again, there are many ways you could do this. Probably you'll want to create an image tag in the HTML and then in your `main.css`, style the #mole accordingly. ie, \
+3. Now you need to write a function that actually _puts_ the mole into the cell. Again, there are many ways you could do this. Probably you'll want to create an image tag in the HTML and then in your `main.css`, style the #mole accordingly. ie, 
 
-`<img id="mole" src="mole.png">` \
+`<img id="mole" src="mole.png">` 
 
 But- I hear you cry: "how to I make the mole appear in the cell??"
 I would point your attention in the direction of the [appendChild method](https://www.w3schools.com/jsref/met_node_appendchild.asp), and quietly remind you that you are perfectly capable of finding answers like that yourself by googling, "move an HTML element with Javascript" as I just did. 
