@@ -2,6 +2,7 @@
 
 Make sure .vs is out of your code @joseph!
 Only one clone which is nice, but idk how I feel about having it all in one repo. maybe positively?
+Need to have buttons that link back to the README.
 
 ## README
 File should be in caps...
@@ -100,9 +101,35 @@ There's so many ways to approach this, but some will remain the same. Maybe offe
 Include more on what might need to happen in the onclick?
 Change the order of the sound/function?
 
+Question is, do you want to lead people through a way of doing it or offer sugges
+
 #### Reflection
 Again, what qs?
 
 #### Stretch
 Pose as suggestions or bulk out more.
 `Rewrite your RandomIndex() function` - assumption about how people approached it.
+
+
+## Dress The Clown!
+This file, specifically the steps look a lot more extensive than the others! Is it a longer challenge, more unfamiliar content, or just more wordy about what to do?
+
+#### Learning Competencies
+Do they know what DRY is? Will we remind them?
+
+#### Summary
+`some JAVASCRIPT FUNCTIONS` - this should be familiar. If not from other learning spaces, from the other carnival games.
+`will toggle between different parts` >> will select different parts
+Loving the steps so far.
+`6. So what you're probably thinking now is:` - like this aside, probs doesn't have to be a step.
+These latter steps might need some looking at to match the vibe of the first stuff more.
+Keybinding after making code we can only use once, maybe prefacing it with a blurb or something?
+You link to concatenation, and then just give the way to do it?
+You talk about keycodes and link, but how to bind??
+Keycodes actually aren't necessary as there is string versions on the event (instead of using `event.which`, used `event.key`).
+`Okay so you solved that problem, now refactor your code again ` - framing on this needs to change
+`You should now have a fully functioning Put A Clown In Different Hats Simulator.` - love it
+You **cannot** have dismembered limbs as a clothing choice.
+
+#### Stretch
+`How on earth would you do that? More importantly; Why would you want to?` - lol
