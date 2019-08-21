@@ -60,3 +60,49 @@ What questions would you ask?
 
 #### Stretch
 Expand on the stretch. Pose more as suggestions?
+
+Could we have a non clown version?
+
+## whack-a-readme
+
+#### Learning competencies
+Same as the last learning competencies? But there was a huge list on the first readme!
+
+#### Summary
+Resources/intro length again
+
+#### Whack! That! Mole!
+Perhaps some words on what is currently there or to go and look at your file so that the tables suggestion and resource is in context.
+Change `this shouldn't be too hard`
+`create an indexer` - what do you mean by this?
+Math.random link could be skipped?
+I like that you include an example of functions, but could name them clearer
+`*Remember,` - try maybe `Note:` or Remember to keep an eye blah blah blah
+`style the #mole accordingly` - what am I doing? I feel like you have a plan here but I don't actually know it yet.
+The css is for the whole carnival? I feel like there should be a main page too (`index.html`) if you really want to tie all these things together. 
+`and quietly remind you that you are perfectly capable` - bit strong there
+`By this point you should have a mole that appears in a random cell` - I do not thank you very much. Give the goal in the previous instruction rather than checking up on it in the next one. I put the images in, but don't yet have the random generator.
+I could help you make these image backgrounds transparent if that's wanted.
+That title on the pages needs some css-ing.
+
+My steps:
+- make mole img appear in all
+- make invisible
+- generate random number
+- get div from cells thing 
+- get child 
+- toggle classlist
+
+Could easily give each an id and getElementById.
+There's so many ways to approach this, but some will remain the same. Maybe offer tools and then people construct plans themselves? Write that more overtly.
+
+`shouldn't be too challenging because you can just re-use the functions you wrote` - wrote the first part as straight code rather than contained functions. This is often how I find peeps writing code when they first approach something too. 
+Include more on what might need to happen in the onclick?
+Change the order of the sound/function?
+
+#### Reflection
+Again, what qs?
+
+#### Stretch
+Pose as suggestions or bulk out more.
+`Rewrite your RandomIndex() function` - assumption about how people approached it.
