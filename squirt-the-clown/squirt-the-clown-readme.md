@@ -11,16 +11,15 @@
 
 ## Summary
 
-These clowns love to receive water in the mouth and have their balloons inflated!
-Unfortunately for the clowns, currently they can not be squirted! 
-Use your Javascript skills to squirt the clowns.
+These clowns must have their balloons inflated!
+Use your Javascript skills to write functions that inflate the clowns baloons when you click on them.
 
 Resources:\
 [Javascript onClick() method](https://www.w3schools.com/jsref/event_onclick.asp)\
 [HTML Images](https://www.w3schools.com/html/html_images.asp)\
 [Javascript Alerts](https://www.w3schools.com/jsref/met_win_alert.asp)
 
-## Time to Squrit The Clown!
+## Time to Squirt The Clown!
 
 Let's get started.
 

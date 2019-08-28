@@ -1,24 +1,25 @@
 # Notes on JS Carnival
 
-Make sure .vs is out of your code @joseph!
+Make sure .vs is out of your code @joseph! (FIXED)
+
 Only one clone which is nice, but idk how I feel about having it all in one repo. maybe positively?
-Need to have buttons that link back to the README.
+Need to have buttons that link back to the README. (I think all in one repo is good as long as the navigation around it all feels smooth and it has a nice whole feeling to it)
 
 ## README
-File should be in caps...
-JS Carvinal..
+File should be in caps... (FIXED)
+JS Carvinal.. (Do you mean always abreviated instead of the entire word Javascript?)
 
 #### Learning Competencies
-Learning competencies need to be broken up. 
-Will this be in separate files like the kata or all in one?
-Need to compare mine/calc learning competencies to these. Are there any key ones we're missing?
+Learning competencies need to be broken up. (Maybe there are no learning competencies in the main readme and they all exist in the sub-reademes?) 
+Will this be in separate files like the kata or all in one? (Seperate files all in the same repo I think, but maybe not. I don't really know the up/downsides)
+Need to compare mine/calc learning competencies to these. Are there any key ones we're missing? (Good question)
 Edit competencies phrasing?
 
 #### Summary
 Love the intro. Could be expanded on to actually give overview of what will be required in challenge.
 
 #### Timebox
-This is a very short amount of time..... assuming it is replacing a 15/20 hour challenge(?). 
+This is a very short amount of time..... assuming it is replacing a 15/20 hour challenge(?). (How long do you think these challenges would take the average student? Also concider that there could be video content to go along with it) 
 What will we be removing? How much content will there be?
 (Replacement for calc but keep minesweeper?)
 
@@ -26,22 +27,22 @@ What will we be removing? How much content will there be?
 love the context, needs rewording
 
 #### Reflection
-`and add your reflections` >>  `and answer the reflections` - they should already be there
+`and add your reflections` >>  `and answer the reflections` - they should already be there (FIXED)
 
 
 ## squirt-the-readme
-I'm slightly questioning your file naming choices.....
+I'm slightly questioning your file naming choices..... (FIXED)
 
 #### Learning Competencies
 Need rewording
 May want to include some other competencies (alerts?)
 
 #### Summary
-.....idk how I feel about your wording Joseph :P 
+.....idk how I feel about your wording Joseph :P  (hahaha i can not believe i wrote that. FIXED)
 How to frame resources?
 
 #### Time to Squrit The Clown!
-^ `Squirt`
+^ `Squirt` (FIXED)
 Mention you'll need to view this in browser?
 Need to check browser sizing on laptop screen (I'm assuming you want them to be in a line?)
 Is that a branded clown I see?

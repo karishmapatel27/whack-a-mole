@@ -40,15 +40,8 @@ Reflect | 20 minutes
 
 These games are somewhat in order of difficulty, so try fixing them from top to bottom. 
 
-[Squirt The Clown](./squirt-the-clown/squirt-the-readme.md) 
+[Squirt The Clown](./squirt-the-clown/squirt-the-clown-readme.md) 
 
-[Whack-A-Mole](./whack-a-mole/whack-a-readme.md) 
+[Whack-A-Mole](./whack-a-mole/whack-a-mole-readme.md) 
 
-[Dress The Clown](./dress-the-clown/dress-the-readme.md) 
-
-
-## Reflection
-
-Open `my-reflections-sprint-5.md` in VS Code and add your reflections from this challenge under the `Javascript Carnival` heading.
-
-Commit and push to GitHub.
+[Dress The Clown](./dress-the-clown/dress-the-clown-readme.md) 
