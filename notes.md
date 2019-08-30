@@ -44,9 +44,9 @@ How to frame resources? (What do you mean by framing in this context?)
 
 #### Time to Squrit The Clown!
 ^ `Squirt` (FIXED)
-Mention you'll need to view this in browser?
+Mention you'll need to view this in browser? (DONE)
 Need to check browser sizing on laptop screen (I'm assuming you want them to be in a line?)
-Is that a branded clown I see?
+Is that a branded clown I see? (FIXED)
 I like that it says Squirt The Clown in the console!
 This is hard to get going. Some guidance on how to approach? Not necessarily in what to do, but more where to start.
 `a function that fires every time you click` reword and give suggestion of what do? (console.log)
@@ -59,12 +59,12 @@ Do i use info on the tag or in the file?
 How would I do it if I didn't put the info in an object?
 
 #### Reflection
-What questions would you ask?
+What questions would you ask? (DONE)
 
 #### Stretch
-Expand on the stretch. Pose more as suggestions?
+Expand on the stretch. Pose more as suggestions? (DONE)
 
-Could we have a non clown version?
+Could we have a non clown version? (DONE)
 
 ## whack-a-readme
 
@@ -72,20 +72,20 @@ Could we have a non clown version?
 Same as the last learning competencies? But there was a huge list on the first readme!
 
 #### Summary
-Resources/intro length again
+Resources/intro length again (What do you think should be included in the intro?)
 
 #### Whack! That! Mole!
 Perhaps some words on what is currently there or to go and look at your file so that the tables suggestion and resource is in context.
-Change `this shouldn't be too hard`
+Change `this shouldn't be too hard` (DONE)
 `create an indexer` - what do you mean by this?
-Math.random link could be skipped?
+Math.random link could be skipped? (DONE)
 I like that you include an example of functions, but could name them clearer
-`*Remember,` - try maybe `Note:` or Remember to keep an eye blah blah blah
+`*Remember,` - try maybe `Note:` or Remember to keep an eye blah blah blah (DONE)
 `style the #mole accordingly` - what am I doing? I feel like you have a plan here but I don't actually know it yet.
-The css is for the whole carnival? I feel like there should be a main page too (`index.html`) if you really want to tie all these things together. 
-`and quietly remind you that you are perfectly capable` - bit strong there
+The css is for the whole carnival? I feel like there should be a main page too (`index.html`) if you really want to tie all these things together. (DEFINITELY)
+`and quietly remind you that you are perfectly capable` - bit strong there (REMOVED)
 `By this point you should have a mole that appears in a random cell` - I do not thank you very much. Give the goal in the previous instruction rather than checking up on it in the next one. I put the images in, but don't yet have the random generator.
-I could help you make these image backgrounds transparent if that's wanted.
+I could help you make these image backgrounds transparent if that's wanted. (DONE)
 That title on the pages needs some css-ing.
 
 My steps:
@@ -106,7 +106,7 @@ Change the order of the sound/function?
 Question is, do you want to lead people through a way of doing it or offer sugges
 
 #### Reflection
-Again, what qs?
+Again, what qs? (done)
 
 #### Stretch
 Pose as suggestions or bulk out more.
