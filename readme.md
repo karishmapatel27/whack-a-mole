@@ -1,26 +1,7 @@
 [Sprint 5 Home](README.md)|
 ---|
 
-# Javascript Carvinal!
-
-### Learning Competencies
-
-- DOM Manipulation using Javascript, including:
-	- Creating, modifying and deleting different HTML tags using vanilla Javascript
-	- Working with tables, rows and cells
-	- Modification of CSS using Javascript
-- Using multiple Javascript files in a single HTML document
-- Using an external Javascript file in an HTML document
-- Working with and changing HTML images using Javascript
-- Playing sounds with Javascript
-- Handling user input with Javascript, including button presses and mouse clicks
-- Creating and manipulating Javascript Arrays
-- Creating, adding to and traversing Javascript Objects
-- Writing Javascript functions, and developing an understanding of:
-	- Arguments
-	- Return values
-	- Loops
-	- Conditionals
+# JS Carvinal!
 
 ## Summary
 
@@ -31,17 +12,20 @@ Just kidding! All three of our games are broken. Please help us fix the carnival
 
 Challenge | Time|
 ------------|----------|
-Squirt The Clown | 2 hours
-Whack-A-Mole | 3 hours
-Dress The Clown | 4 hours
+Inflate The Unicorn | 3 hours
+Whack-A-Mole | 5 hours
+Dress The Clown | 5 hours
 Reflect | 20 minutes
 
 ## The Games
 
 These games are somewhat in order of difficulty, so try fixing them from top to bottom. 
 
-[Squirt The Clown](./squirt-the-clown/squirt-the-clown-readme.md) 
+[Inflate The Unicorn](./inflate-the-unicorn/inflate-the-unicorn-readme.md)  
+These poor unicorns have baloons for horns. Write code that inflates them!
 
-[Whack-A-Mole](./whack-a-mole/whack-a-mole-readme.md) 
+[Whack-A-Mole](./whack-a-mole/whack-a-mole-readme.md)  
+The carnival classic "Whack a Mole" brought to life right inside your very own web browser. Where did all the moles go?
 
-[Dress The Clown](./dress-the-clown/dress-the-clown-readme.md) 
+[Dress The Clown](./dress-the-clown/dress-the-clown-readme.md)  
+A dressup game where you make a clown look fancy!

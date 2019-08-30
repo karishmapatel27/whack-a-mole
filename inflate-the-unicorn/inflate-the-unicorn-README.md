@@ -6,17 +6,17 @@
 ### Learning Competencies
 
 - Using Javascript to work with HTML images.
-- The onClick() method.
-- Writing and firing functions in Javascript.
+- Firing functions with the onClick() method.
+- Using conditionals to control function logic.
+- Using the Alert() method.
 
 ## Summary
 
-These clowns must have their balloons inflated!
-Use your Javascript skills to write functions that inflate the clowns baloons when you click on them.
+These unicorns have baloons for horns; but what good is a deflated horn? In this challenge you are going to replace the placeholder images with deflated unicorns, then write some logic that cycles through the appropriate images when you click on a unicorn. Once the unicorn horn is fully inflated, an alert will pop up on the screen with a heartfelt THANK YOU from the unicorn. 
 
 Resources:\
-[Javascript onClick() method](https://www.w3schools.com/jsref/event_onclick.asp)\
 [HTML Images](https://www.w3schools.com/html/html_images.asp)\
+[Javascript onClick() method](https://www.w3schools.com/jsref/event_onclick.asp)\
 [Javascript Alerts](https://www.w3schools.com/jsref/met_win_alert.asp)
 
 ## Time to Squirt The Clown!

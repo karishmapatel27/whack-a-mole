@@ -35,11 +35,12 @@ I'm slightly questioning your file naming choices..... (FIXED)
 
 #### Learning Competencies
 Need rewording
-May want to include some other competencies (alerts?)
+May want to include some other competencies (alerts?) (ADDED)
 
 #### Summary
 .....idk how I feel about your wording Joseph :P  (hahaha i can not believe i wrote that. FIXED)
-How to frame resources?
+
+How to frame resources? (What do you mean by framing in this context?)
 
 #### Time to Squrit The Clown!
 ^ `Squirt` (FIXED)
