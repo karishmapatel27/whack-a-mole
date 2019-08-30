@@ -23,17 +23,19 @@ Resources:\
 
 Let's get started.
 
+0. Open up `inflate-the-unicorn.html` in your browser and have a look. You'll notice that currently it's just placeholder images. The first step is going to be replacing those with pictures of the completely deflated unicorn in the /images directory. 
+
 1. In the `inflate-the-unicorn.html` document, find the three placeholder `<img>` tags and replace their `src=` elements to the `unicorn-0.png` image.
 
 2. Read up on the [Javascript onClick() method](https://www.w3schools.com/jsref/event_onclick.asp).
-You will need to write a function that fires every time you click on one of the clowns.
+You will need to write a function that fires every time you click on one of the unicorns.
 
 3. You might be asking yourself something like, "how do I change an HTML image using Javascript?"
 Instead of asking yourself that, try typing _those exact words_ into Google. And further more, whenever you find yourself pondering over how to do something specific while programming: *TYPE THE WORDS INTO GOOGLE*.
 
-4. In order to change to the correct image, you're going to need to keep track of the current state of the clowns. There are several ways you could do this; probably you're going to want to create some variables. ie, `var clown1 = 0`, or `var clown1 = "empty", etc. You could also store all the clown states in a single object. 
+4. In order to change to the correct image, you're going to need to keep track of the current state of the unicorns. There are several ways you could do this; probably you're going to want to create some variables. ie, `var unicorn1 = 0`, or `var unicorn1 = "empty", etc. You could also store all the unicorn states in a single object. 
 
-5. If a clown has cycled through all the images and is "full", clicking on them should pop up a [Javascript Alert](https://www.w3schools.com/jsref/met_win_alert.asp) that says, "Clown Number `x`'s desires are completely satasfied!". Congratulations! 
+5. If a unicorn has cycled through all the images and is "full", clicking on them should pop up a [Javascript Alert](https://www.w3schools.com/jsref/met_win_alert.asp) that says, "Clown Number `x`'s desires are completely satasfied!". Congratulations! 
 
 ## Reflection
 
@@ -43,5 +45,5 @@ Commit and push to GitHub.
 
 ## Stretch
 
-1. Once you click on a satisfied clown, instead of popping up an alert it should reset back to empty!
-2. Add a squirting sound effect that plays whenever you click on a clown!
+1. Once you click on a satisfied unicorn, instead of popping up an alert it should reset back to empty!
+2. Add a squirting sound effect that plays whenever you click on a unicorn!
