@@ -19,11 +19,11 @@ Resources:\
 [Javascript onClick() method](https://www.w3schools.com/jsref/event_onclick.asp)\
 [Javascript Alerts](https://www.w3schools.com/jsref/met_win_alert.asp)
 
-## Time to Squirt The Clown!
+## Help those unicorns! 
 
 Let's get started.
 
-1. In the `squirt-the-clown.html` document, find the three placeholder `<img>` tags and replace their `src=` elements to the `clown-0.png` image.
+1. In the `inflate-the-unicorn.html` document, find the three placeholder `<img>` tags and replace their `src=` elements to the `unicorn-0.png` image.
 
 2. Read up on the [Javascript onClick() method](https://www.w3schools.com/jsref/event_onclick.asp).
 You will need to write a function that fires every time you click on one of the clowns.
