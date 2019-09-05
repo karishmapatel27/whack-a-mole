@@ -1,31 +1,34 @@
-[Sprint 5 Home](README.md)|
----|
-
-# JS Carvinal!
+# Welcome to the JavaScript Carnival!
 
 ## Summary
 
-Welcome to the Javascript Carnival! It's a wonderful place full of exciting games and activities... 
-Just kidding! All three of our games are broken. Please help us fix the carnival using your Javascript skills. 
+We have a real treat for you today! Some classic carnival activities just waiting to entertain and amaze you! Unfortunately they need a touch of work before they'll be ready to go.. perhaps you could help us!
 
 ## Timebox
 
-Challenge | Time|
+Challenge | Time |
 ------------|----------|
 Inflate The Unicorn | 3 hours
 Whack-A-Mole | 5 hours
 Dress The Clown | 5 hours
-Reflect | 20 minutes
+
+## Let's get going!
+
+1. Before you start working through this challenge, make sure you have forked this repo to your own account.
+
+2. Clone this repo from your GitHub to your computer.
+
+3. Open the repo in VS Code and have a look around.
 
 ## The Games
 
-These games are somewhat in order of difficulty, so try fixing them from top to bottom. 
+These games are all independent from each other, however they are somewhat listed in order of difficulty, so try fixing them from top to bottom. 
 
-[Inflate The Unicorn](./inflate-the-unicorn/inflate-the-unicorn-readme.md)  
-These poor unicorns have baloons for horns. Write code that inflates them!
+[Inflate The Unicorn](inflate-the-unicorn/inflate-the-unicorn-readme.md)  
+These poor unicorns have balloons for horns. Write code that inflates them!
 
-[Whack-A-Mole](./whack-a-mole/whack-a-mole-readme.md)  
+[Whack-A-Mole](whack-a-mole/whack-a-mole-readme.md)  
 The carnival classic "Whack a Mole" brought to life right inside your very own web browser. Where did all the moles go?
 
-[Dress The Clown](./dress-the-clown/dress-the-clown-readme.md)  
-A dressup game where you make a clown look fancy!
+[Dress The Clown](dress-the-clown/dress-the-clown-readme.md)  
+A dress-up game where you make a clown look fancy!
