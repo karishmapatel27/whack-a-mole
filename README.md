@@ -26,11 +26,11 @@ Dress The Clown | 5 hours
 
 These games are all independent from each other, however they are somewhat listed in order of difficulty, so try fixing them from top to bottom. 
 
-[Inflate The Unicorn](./inflate-the-unicorn/inflate-the-unicorn-readme.md)  
+[Inflate The Unicorn](./inflate-the-unicorn/inflate-the-unicorn-README.md)  
 These poor unicorns have balloons for horns. Write code that inflates them!
 
-[Whack-A-Mole](./whack-a-mole/whack-a-mole-readme.md)  
+[Whack-A-Mole](./whack-a-mole/whack-a-mole-README.md)  
 The carnival classic "Whack a Mole" brought to life right inside your very own web browser. Where did all the moles go?
 
-[Dress The Clown](./dress-the-clown/dress-the-clown-readme.md)  
+[Dress The Clown](./dress-the-clown/dress-the-clown-README.md)  
 A dress-up game where you make a clown look fancy!
