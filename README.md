@@ -2,7 +2,9 @@
 
 ## Summary
 
-We have a real treat for you today! Some classic carnival activities just waiting to entertain and amaze you! Unfortunately they need a touch of work before they'll be ready to go.. perhaps you could help us!
+We have a real treat for you today! Some classic carnival activities just waiting to entertain and amaze you! 
+
+Unfortunately they need a touch of work before they'll be ready to go.. perhaps you could help us!
 
 ## Timebox
 
