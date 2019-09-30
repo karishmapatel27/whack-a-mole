@@ -51,7 +51,7 @@ Congratulations! You've successfully fixed the squirt the ~~clown~~ unicorn game
 
 ## Reflection
 
-Open `my-reflections-sprint-5.md` in VS Code, add a `Inflate The Unicorn` heading, and add the following reflection questions from this challenge.
+Open `my-reflections-sprint-5.md` from your reflections file in VS Code, add a `Inflate The Unicorn` heading, and add the following reflection questions from this challenge.
 
 - Did you learn anything new during this exercise? What was it?
 
