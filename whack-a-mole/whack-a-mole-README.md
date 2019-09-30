@@ -81,7 +81,7 @@ The whackedMole function should remove the mole from the current cell and then, 
 
 The last touch for our game is to add a [sound effect](https://www.developphp.com/lib/JavaScript/Audio) that plays when the mole is clicked. A hilarious _cartoon spring sound effect_ has been provided for you (`whack-audio.wav`).
 
-You're done! Whack-a-Mole!
+You're done! Push your code up to GitHub and Whack! That! Mole!
 
 ## Reflection
 

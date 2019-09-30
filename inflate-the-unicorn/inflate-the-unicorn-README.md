@@ -49,6 +49,8 @@ There are several ways you could do this, and it just depends what makes the mos
 
 Congratulations! You've successfully fixed the squirt the ~~clown~~ unicorn game and the crowds are eager to give it a go!
 
+Make sure you push your code up to github so we can all enjoy it!
+
 ## Reflection
 
 Open `my-reflections-sprint-5.md` from your reflections file in VS Code, add a `Inflate The Unicorn` heading, and add the following reflection questions from this challenge.
