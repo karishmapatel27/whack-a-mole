@@ -15,7 +15,8 @@
 
 The Javascript Carnival has a mole problem! But it's the opposite problem to the one you're picturing; there aren't _enough_ moles. None in fact! We need you to use your Javascript skills to write functions that randomly pop up a mole, then pop it back up somewhere else again after it has been whacked.
 
-Resources:\
+#### Resources
+
 [HTML Tables](https://www.w3schools.com/html/html_tables.asp)\
 [Javascript Random](https://www.w3schools.com/js/js_random.asp)\
 [Javascript onClick() method](https://www.w3schools.com/jsref/event_onclick.asp)\
@@ -25,17 +26,21 @@ Resources:\
 
 Let's get started.
 
-There are three things we will need to make this game work, however as with all coding tasks there is more than one way to go about it. 
+First thing, go and have a look at your page and HTML code. 
+
+Currently we have a table being drawn on our page, but no moles. We need to add some functionality to our page that will randomly select one of these table cells, and then add the image of a mole inside of it. At the end of this challenge, clicking on that mole will then make it choose a new spot to appear in.
+
+There are three things we will need to make this game work, however as with all coding tasks there is more than one way to go about it:
 
 - The ability to store or get references to the cells in the HTML table.
 - A function to randomly select which cell should show the mole.
 - A way to show a mole in the chosen cell.
 
-We invite you to address the above three issues in any way you see fit, and to ignore the below descriptions if you so choose, but have included some more detailed descriptions on each of these three below for those who wish it.
+If you would like to challenge yourself, we invite you to complete this exercise without reading the longer descriptions of these three steps below. They will give you some further hints on how to achieve each step, but first try your own hand and do some researching to complete each of these.
 
 #### References to the cells
 
-The likely trickiest part of this whole exercise comes right at the beginning. We need to find a way to _store references_ to all off the cells so we can then put a mole in one of them. 
+The (likely) trickiest part of this whole exercise comes right at the beginning. We need to find a way to _store references_ to all off the cells so we can then put a mole in one of them. 
 
 There are multiple ways you could go about doing this; we would recommend reading up on how to work with [HTML tables using Javascript](https://www.w3schools.com/jsref/coll_table_cells.asp). You can use this to create a variable equal to this _2D array_ (an array that holds arrays), or to create a single array and then fill it with the cells. If that is a daunting task, remember you can always *ask the internet how to do it*.
 
@@ -70,7 +75,7 @@ By this point you should have a mole that appears in a random cell when you load
 
 Now you'll need to add an [onClick()](https://www.w3schools.com/jsref/event_onclick.asp) method for the mole that calls a function (say, named `whackedMole`) when you click on the image. 
 
-The whackedMole function should remove the mole from the current cell and then, using a function to re-use the code that you wrote earlier, add the mole to a new random cell.
+The whackedMole function should remove the mole from the current cell and then, using a function that lets you re-use the code that you wrote earlier, add the mole to a new random cell.
 
 #### Finishing touches
 
