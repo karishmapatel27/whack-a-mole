@@ -85,7 +85,7 @@ You're done! Whack-a-Mole!
 
 ## Reflection
 
-Open `my-reflections-sprint-5.md` in VS Code and add your reflections from this challenge under the `Whack-a-Mole` heading.
+Open `my-reflections-sprint-5.md` in VS Code, add a `Whack-a-Mole` heading, and add the following reflection questions from this challenge.
 
 - What was the hardest part of this exercise? 
 

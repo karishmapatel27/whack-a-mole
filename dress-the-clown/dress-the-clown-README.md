@@ -75,13 +75,19 @@ You should now have a fully functioning Put A Clown In Different Hats Simulator.
 
 Now comes the part where we bring all the pieces together. 
 
-13. Refactor your code so that if your `clothingIndex == 0`, the left and right arrow keys change the head image, if the `clothingIndex == 1`, the left and right arrow keys change the body image, etc. Try to avoid duplicating your code whenever possible (keep it DRY). Infact, instead of duplicating the entire `changeClownHead` function, try reworking it into a `changeClothes` function that can change any of the body parts. The logic is going to be _almost identical_. Really the main difference is going to be which HTML `<img>` you are changing, and therefore what your concatenated `src` string is.
+13. Refactor your code so that if your `clothingIndex == 0`, the left and right arrow keys change the head image, if the `clothingIndex == 1`, the left and right arrow keys change the body image, etc. Try to avoid duplicating your code whenever possible (keep it DRY). In fact, instead of duplicating the entire `changeClownHead` function, try reworking it into a `changeClothes` function that can change any of the body parts. The logic is going to be _almost identical_. Really the main difference is going to be which HTML `<img>` you are changing, and therefore what your concatenated `src` string is.
 
 Once that's working, you're done! You can dress the clown to your heart's content! Awesome job!
 
 ## Reflection
 
-Open `my-reflections-sprint-5.md` in VS Code and add your reflections from this challenge under the `Dress A Clown` heading.
+Open `my-reflections-sprint-5.md` in VS Code, add a `Dress a Clown` heading, and add the following reflection questions from this challenge.
+
+- How did you find the process of refactoring your code? 
+
+- Would you do anything differently if you were to start this challenge again?
+
+- What piece of code are you proudest of from this exercise? 
 
 Commit and push to GitHub.
 

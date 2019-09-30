@@ -51,15 +51,18 @@ Congratulations! You've successfully fixed the squirt the ~~clown~~ unicorn game
 
 ## Reflection
 
-Open `my-reflections-sprint-5.md` in VS Code and add your reflections from this challenge under the `Inflate A Unicorn!` heading.
-Did you learn anything new during this exercise? What was it? 
+Open `my-reflections-sprint-5.md` in VS Code, add a `Inflate The Unicorn` heading, and add the following reflection questions from this challenge.
 
-Commit and push to GitHub.
+- Did you learn anything new during this exercise? What was it?
+
+- Did you encounter issues completing any of the steps of this exercise? How did you resolve this?
+
+- If you were to replace the unicorn with another mystical animal of your choice, what would it be?  
+
+Make sure you commit and push to GitHub.
 
 ## Stretch
 
 -  Once you click on a satisfied unicorn, instead of popping up an alert, what else could happen?
 
 - Would adding some sound effects to this process make it more interesting? What sound does a unicorn make? 
-
-- Could you replace the unicorn with another mystical animal of your choice? 
