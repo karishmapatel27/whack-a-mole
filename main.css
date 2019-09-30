@@ -26,7 +26,7 @@ td {
     text-align: center;
 }
 
-.squirt-an-image{
+.inflate-an-image{
     display: inline-block;
     width: 400px;
     height: 400px;
@@ -48,6 +48,18 @@ td {
   top: 0px;
   left: 0px;
 }
+
+ #head {
+	z-index: 2
+ }
+ 
+ #body {
+	z-index: 0
+ }
+
+  #shoes {
+	z-index: 1
+ }
 
 .ferris-wheel-car {
 	width: 50px;

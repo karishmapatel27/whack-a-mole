@@ -2,4 +2,4 @@
  // JAVASCRIPT CARNIVAL //
 // -    -   -   -   -  //
 
-console.log("Squirt The Clown!")
+console.log("Inflate The Unicorn!")
