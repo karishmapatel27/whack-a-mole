@@ -13,6 +13,7 @@ Challenge | Time |
 Inflate The Unicorn | 3 hours
 Whack-A-Mole | 5 hours
 Dress The Clown | 5 hours
+Reflect | 30 minutes
 
 ## Let's get going!
 
