@@ -2,9 +2,7 @@
 
 ## Summary
 
-We have a real treat for you today! Some classic carnival activities just waiting to entertain and amaze you! 
-
-Unfortunately they need a touch of work before they'll be ready to go.. perhaps you could help us!
+Welcome to the Javascript Carnival! It's a wonderful place full of exciting games and activities... Just kidding! All three of our games are broken. Please help us fix the carnival using your Javascript skills.
 
 ## Timebox
 
