@@ -38,8 +38,6 @@ A dress-up game where you make a clown look fancy!
 
 Once you have completed these exercises (or as much of them as you can handle!), go to your `my-reflections-sprint-5.md` using VS Code, add a `JS Carnival` heading, and answer the following questions.
 
-- What parts of these challenges did you enjoy? If we were to add more challenges, what would you like to have more of?
-
 - What parts weren't so good? Were there any parts that you felt stuck on?
 
 - Which parts made you feel confident?
