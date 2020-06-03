@@ -34,7 +34,7 @@ The carnival classic "Whack a Mole" brought to life right inside your very own w
 [Dress The Clown](./dress-the-clown/dress-the-clown-README.md)  
 A dress-up game where you make a clown look fancy!
 
-## Feedback!
+## Reflect
 
 Once you have completed these exercises (or as much of them as you can handle!), go to your `my-reflections-sprint-5.md` using VS Code, add a `JS Carnival` heading, and answer the following questions.
 
