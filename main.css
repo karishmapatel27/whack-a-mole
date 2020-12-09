@@ -1,8 +1,25 @@
 body {
-  background-image: url(./background2.png);
+  background-image: url(./images/background2.png);
   height: 100vh;
   background-size: cover;
   background-repeat: no-repeat;
+}
+
+@font-face {
+    font-family: '3dumbregular';
+    src: url('./3dumb-webfont.woff2') format('woff2'),
+        url('./3dumb-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'grinchedregular';
+    src: url('grinchedregular-webfont.woff2') format('woff2'),
+        url('grinchedregular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
 #start-btn{
@@ -36,10 +53,11 @@ body {
 
 #title {
   margin-top: 40px;
-  font-size: 3rem;
+  font-size: 3.5rem;
   color: brown;
   margin-top: 50px;
   margin-bottom: 20px;
+  font-family: "grinchedregular";
 }
 
 h1 { 
