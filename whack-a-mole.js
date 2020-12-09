@@ -2,6 +2,12 @@
 
 var cellRef = document.getElementsByTagName("td");
 var len = cellRef.length;
+let score = 0;
+let timer = 0;
+let timeLimit = 10;
+document.getElementById("score").innerHTML = "Score: " + score;
+document.getElementById("start-btn").addEventListener("click", startGame)
+
 
 //create a function to select random cells
 function random() {
@@ -24,6 +30,7 @@ function whackedMole() {
   playSound();
   this.remove();
   display_mole();
+  counter();
 }
 
 function playSound() {
@@ -33,4 +40,37 @@ function playSound() {
   return;
 }
 
-display_mole();
+//count the score
+function counter() {
+  score++;
+  document.getElementById("score").innerHTML = "Score: " + score;
+}
+
+//set the timer 
+function countdown() {
+  var secs = 15;
+  function tick() {
+    var counter = document.getElementById("counter");
+    secs--;
+    counter.innerHTML = "0:" + (secs < 10 ? "0" : "") + String(secs);
+    if (secs >= 0) {
+      setTimeout(tick, 1000);
+    } else {
+      alert(`Game Over 
+      Your score is: ${score}`);
+      document.location.href = "";
+    }
+  }
+  tick();
+}
+
+//start the game 
+function startGame() {
+  display_mole();
+  countdown()
+}
+
+
+
+
+
