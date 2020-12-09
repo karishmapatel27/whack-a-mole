@@ -20,14 +20,8 @@ function display_mole() {
   document.getElementById("mole").addEventListener("click", whackedMole);
 }
 
-// function removeMole() {
-//   var remove = document.getElementById("mole");
-//   remove.parentNode.removeChild(mole);
-// }
-
 function whackedMole() {
   playSound();
-  // removeMole();
   this.remove();
   display_mole();
 }
